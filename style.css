@@ -16,6 +16,7 @@ section{
 #menu a{
     float: right;
     padding-left: 20px;
+    text-decoration: none;
 }
 h1{
     font-size: 50px;
@@ -61,7 +62,7 @@ h1{
     float: left;
     margin-left: 2%;
     padding: 1%;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px rgb(236, 230, 230);
     margin-bottom: 3%;
     background-color: white;
     border-radius: 10px;
@@ -71,6 +72,9 @@ h1{
 }
 .third-half img{
     width: 100%;
+}
+.third-half p{
+    font-size: 14px;
 }
 .internal-half{
     padding: 2%;
@@ -87,7 +91,6 @@ h1{
     padding-top: 10px;
     margin: 100px auto;
     color: white;
-    white-space: nowrap;
 }
 #last-div h1{
     padding-top: 15px;
@@ -97,6 +100,10 @@ h1{
     font-size: 12px;
     margin-left: 320px;
     padding: 20px 20px;
+    background-image: linear-gradient(tomato, tomato);
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
 }
 .contact{
     text-align: center;
