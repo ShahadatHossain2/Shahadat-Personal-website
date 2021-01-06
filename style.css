@@ -2,6 +2,9 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+a{
+    font-family: 'Poppins', sans-serif;
+}
 section{
     height: 500px;
 }
@@ -94,4 +97,22 @@ h1{
     font-size: 12px;
     margin-left: 320px;
     padding: 20px 20px;
+}
+.contact{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.contact h3{
+    color: gray;
+}
+.contact-div{
+    margin-left: 37.5%;
+    margin-right: 35.5%;
+}
+.single-div{
+    float: left;
+    padding: 0%;
+}
+.single-div img{
+    width: 45%;
 }
