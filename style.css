@@ -101,7 +101,7 @@ h1{
     padding-left: 40px;
 }
 #last-div a{
-    font-size: 12px;
+    font-size: 15px;
     margin-left: 320px;
     padding: 20px 20px;
     background-image: linear-gradient(tomato, tomato);
@@ -117,13 +117,13 @@ h1{
     color: gray;
 }
 .contact-div{
-    margin-left: 37.5%;
+    margin-left: 44.5%;
     margin-right: 35.5%;
 }
 .single-div{
     float: left;
-    padding: 0%;
+    width: 50px;
 }
 .single-div img{
-    width: 45%;
+    width: 50%;
 }
