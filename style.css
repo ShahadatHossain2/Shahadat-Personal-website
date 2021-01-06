@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+}
+#menu{
+    font-family: 'Oswald', sans-serif;
+    margin-right: 8%;
+    height: 100px;
+}
+#menu a{
+    float: right;
+    padding-left: 20px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+.text-color{
+    color: tomato;
+}
+.half-width{
+    width: 30%;
+    margin-left: 5%;
+    padding-left: 7%;
+    float: left;
+}
+.half-width p{
+    text-align: justify;
+    color: brown;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px;
+    background-image: linear-gradient(45deg, tomato, rgb(131, 8, 55));
+    border-radius: 5px;
+}
+#align{
+    text-align: center;
+}
+.third-Section{
+    background-color: gainsboro;
+    height: 700px;
+}
+.third-Section h1{
+    padding-top: 3%;
+}
+.third-half{
+    background-repeat: no-repeat;
+    width: 26%;
+    height: 25%;
+    float: left;
+    margin-left: 2%;
+    padding: 1%;
+    box-shadow: 10px 10px 40px gray;
+    margin-bottom: 3%;
+    background-color: white;
+    border-radius: 10px;
+}
+.main-div{
+    margin-left: 7%;
+}
+.third-half img{
+    width: 100%;
+}
+.internal-half{
+    padding: 2%;
+}
+.internal-half h3{
+    font-family: 'Oswald', sans-serif;
+}
