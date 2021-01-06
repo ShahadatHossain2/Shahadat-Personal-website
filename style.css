@@ -45,8 +45,8 @@ h1{
     text-align: center;
 }
 .third-Section{
-    background-color: gainsboro;
-    height: 700px;
+    background-color: whitesmoke;
+    height: 600px;
 }
 .third-Section h1{
     padding-top: 3%;
@@ -74,4 +74,24 @@ h1{
 }
 .internal-half h3{
     font-family: 'Oswald', sans-serif;
+}
+#last-div{
+    background-image: url("images/Group_33094_1.png");
+    background-size: cover;
+    width: 830px;
+    height: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin: 100px auto;
+    color: white;
+    white-space: nowrap;
+}
+#last-div h1{
+    padding-top: 15px;
+    padding-left: 40px;
+}
+#last-div a{
+    font-size: 12px;
+    margin-left: 320px;
+    padding: 20px 20px;
 }
